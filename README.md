@@ -1,2 +1,5 @@
-# videoplayer
-Custom video player using HTML video events
+# Video Player
+Custom video player with royalty free videos
+
+# Functionality
+
